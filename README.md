@@ -1,2 +1,3 @@
 # microverse-webpack
-A repository with webpack starter files
+
+A repository with webpack starter files.
